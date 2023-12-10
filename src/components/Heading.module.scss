@@ -1,0 +1,10 @@
+.heading{
+    font-stretch: extra-condensed;
+}
+
+.txtgrad{
+    display: inline-block;
+    background-image: linear-gradient(to right,red,#FFFF00);
+    -webkit-background-clip: text;
+    color:transparent;
+}
