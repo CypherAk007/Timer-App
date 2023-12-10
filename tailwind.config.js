@@ -8,6 +8,10 @@ export default {
     extend: {
       minHeight:{
         '200':'50rem',
+        
+      },
+      flex:{
+        '50':'0 0 50%'
       }
     },
   },
